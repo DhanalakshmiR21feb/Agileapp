@@ -1,0 +1,17 @@
+{
+   "data":{ "_id":{"$oid":"600a695da6e5b6845906e726"},
+"type": "event",
+    "name": "Event ABC",
+    "tagline":"Event ABC is a program",
+    "schedule":"",
+    "description": "",
+    "image": "https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    "moderator": "",
+    "category": "",
+    "sub_category": "",
+    "rigor_rank":"",
+    "attendees":"[]",
+"createdAt":{"$date":"2021-01-22T05:57:49.999Z"},
+"updatedAt":{"$date":"2021-01-22T05:57:49.999Z"},"__v":0
+   }
+}
